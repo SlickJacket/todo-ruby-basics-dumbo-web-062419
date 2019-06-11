@@ -8,11 +8,11 @@ def assign_variable(value)
 end
 
 def argue(argument)
-  return argument 
+  return argument
 
 end
 
-def greeting
+def greeting(greeting, name)
 
 end
 
